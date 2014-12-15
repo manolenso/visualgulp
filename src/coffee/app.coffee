@@ -1,0 +1,1 @@
+#$ -> alert "jQuery est chargée!"

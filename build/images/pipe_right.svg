@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   viewBox="-4.9 -5 500 320"
+   enable-background="new -4.9 -5 500 320"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="pipe_right.svg"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1281"
+   inkscape:window-height="480"
+   id="namedview7"
+   showgrid="false"
+   inkscape:zoom="0.7375"
+   inkscape:cx="250"
+   inkscape:cy="160"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Calque_1" />
+<path
+   d="M 475.08799,315 H 15.112007 C 4.1054032,315 -4.9,306 -4.9,295 V 15 C -4.9,4 4.1054032,-5 15.112007,-5 H 475.08799 C 486.0946,-5 495.1,4 495.1,15 v 280 c 0,11 -9.0054,20 -20.01201,20 z"
+   id="path3"
+   inkscape:connector-curvature="0"
+   style="fill:#6694da" />
+<path
+   fill="#BEA68C"
+   d="M170.3,60V-5h149.9v65.4c0.2,10.8,9.1,19.6,20,19.6h154.9v150H320.3v-0.1H245c-41.3,0-75-33.8-75-75V60  H170.3z"
+   id="path5" />
+</svg>

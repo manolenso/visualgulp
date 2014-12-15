@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   viewBox="-4.8 -5 500 320"
+   enable-background="new -4.8 -5 500 320"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="crux_right.svg"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1223"
+   inkscape:window-height="577"
+   id="namedview7"
+   showgrid="false"
+   inkscape:zoom="0.7375"
+   inkscape:cx="250"
+   inkscape:cy="160"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Calque_1" />
+<path
+   d="M 475.17998,315 H 15.22002 C 4.209009,315 -4.8,306 -4.8,295 V 15 C -4.8,4 4.209009,-5 15.22002,-5 H 475.17998 C 486.19099,-5 495.2,4 495.2,15 v 280 c 0,11 -9.00901,20 -20.02002,20 z"
+   id="path3"
+   inkscape:connector-curvature="0"
+   style="fill:#6694da" />
+<polygon
+   fill="#BEA68C"
+   points="495.2,80 320.4,80 320.4,-5 170.6,-5 170.6,315 320.4,315 320.4,230 495.2,230 "
+   id="polygon5" />
+</svg>
